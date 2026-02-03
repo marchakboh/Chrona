@@ -72,6 +72,16 @@ Chrona is split into two layers:
 
 ---
 
+## Screenshots / Demo
+
+> Add screenshots here when available.
+
+<img src="https://github.com/marchakboh/Chrona/blob/master/GitImages/Image1.png">
+<img src="https://github.com/marchakboh/Chrona/blob/master/GitImages/Image2.png">
+<img src="https://github.com/marchakboh/Chrona/blob/master/GitImages/Image3.png">
+
+---
+
 ### Requirements
 - **Qt 5/6** (depending on your project)
 - C++ compiler (MSVC / clang / gcc)
